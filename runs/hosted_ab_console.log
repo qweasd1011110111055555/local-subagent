@@ -1,0 +1,24 @@
+=== ARM flash start 14:13:19 (alias believed=v4.1, see 口径预登记)
+[proxy] POST /v1/chat/completions -> 200 3984ms model=deepseek-flash ptok=2238 ctok=587
+[proxy] POST /v1/chat/completions -> 200 5546ms model=deepseek-flash ptok=3496 ctok=1080
+[proxy] POST /v1/chat/completions -> 200 6687ms model=deepseek-flash ptok=4920 ctok=1444
+[proxy] POST /v1/chat/completions -> 200 9546ms model=deepseek-flash ptok=7607 ctok=1858
+[proxy] POST /v1/chat/completions -> 200 38937ms model=deepseek-flash ptok=11493 ctok=8190
+EMPTY_REPLY out=C:\Users\18016\Downloads\ds4f\ab_deleg\run_hosted_flash
+=== ARM flash RC=5
+=== ARM pro start 14:14:30
+[proxy] POST /v1/chat/completions -> 200 4296ms model=deepseek-v4-pro ptok=2293 ctok=305
+[proxy] POST /v1/chat/completions -> 200 2546ms model=deepseek-v4-pro ptok=2832 ctok=196
+[proxy] POST /v1/chat/completions -> 200 8625ms model=deepseek-v4-pro ptok=3827 ctok=523
+[proxy] POST /v1/chat/completions -> 200 3608ms model=deepseek-v4-pro ptok=5005 ctok=170
+[proxy] POST /v1/chat/completions -> 200 14860ms model=deepseek-v4-pro ptok=5351 ctok=1006
+[proxy] POST /v1/chat/completions -> 200 10562ms model=deepseek-v4-pro ptok=7968 ctok=622
+[proxy] POST /v1/chat/completions -> 200 7514ms model=deepseek-v4-pro ptok=9023 ctok=551
+[proxy] POST /v1/chat/completions -> 200 4219ms model=deepseek-v4-pro ptok=10429 ctok=289
+[proxy] POST /v1/chat/completions -> 200 24280ms model=deepseek-v4-pro ptok=12087 ctok=1696
+[proxy] POST /v1/chat/completions -> 200 6094ms model=deepseek-v4-pro ptok=14157 ctok=395
+[proxy] POST /v1/chat/completions -> 200 55219ms model=deepseek-v4-pro ptok=14740 ctok=3597
+[proxy] POST /v1/chat/completions -> 200 69640ms 
+NOTURN out=C:\Users\18016\Downloads\ds4f\ab_deleg\run_hosted_pro
+=== ARM pro RC=3
+=== BOTH DONE 14:18:15
